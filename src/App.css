@@ -1,38 +1,72 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.App{
+  width: 100vw;
+  height: 100vh;
   display: flex;
-  flex-direction: column;
+}
+
+.QuizBlock{
+  width: 50%;
+  height: 100%;
+  display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  flex-direction: column;
+}
+
+.QzInactive{
+  background-color: orange;
+}
+
+.QzActive{
+  background-color: lightseagreen;
+}
+
+.Answers{
+  overflow-y: scroll;
+  height: 60vh;
+  font-size: 1.2rem;
+  text-align: center;
+  width: 70%;
+  border-radius: 30px;
+  box-shadow: 0px 1px 8px black;
+  background: linear-gradient(30deg,rgba(2, 0, 0, 0.534),rgba(109, 71, 35, 0.336));
+}
+.Answers::-webkit-scrollbar{
+  display: none;
+}
+.wrongAns{
+  color: red;
+}
+.rightAns{
+  color: lightgreen;
+}
+.question{
   color: white;
 }
+hr{
+  background: black;
+  height: 10px;
+}
+button{
+  width: 100px;
+  height: 50px;
+  border-radius: 50px;
+  font-size: 1rem;
+}
+.statement{
+  height: 200px;
+  font-size: 1.5rem;
 
-.App-link {
-  color: #61dafb;
+}
+.statement>.stmtInput{
+  height: 100px;
+  font-size: 1.3rem;
+  width: 100px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.range{
+  font-size: 1.5rem;
+}
+.range>button{
+  width: 50px;
 }
