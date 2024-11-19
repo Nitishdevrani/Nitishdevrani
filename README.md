@@ -3,8 +3,6 @@
 **Frontend Developer | React.js | TypeScript | Web Applications**
 
 ## Contact Information
-- **Address:** WE3, Huldstraße 24, 90461 Nuremberg, Germany
-- **Phone:** +49 15510320894
 - **Email:** [nitishdevrani@gmail.com](mailto:nitishdevrani@gmail.com)
 - **LinkedIn:** [linkedin.com/in/nitishdevrani](https://linkedin.com/in/nitishdevrani)
 
