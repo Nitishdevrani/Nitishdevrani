@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# Nitish Devrani
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Frontend Developer | React.js | TypeScript | Web Applications**
 
-## Available Scripts
+## Contact Information
+- **Address:** WE3, Huldstraße 24, 90461 Nuremberg, Germany
+- **Phone:** +49 15510320894
+- **Email:** [nitishdevrani@gmail.com](mailto:nitishdevrani@gmail.com)
+- **LinkedIn:** [linkedin.com/in/nitishdevrani](https://linkedin.com/in/nitishdevrani)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Introduction
+I am an experienced Frontend Developer with 5 years of expertise in building responsive, accessible, and high-performance web applications. My goal is to leverage my skills in React, TypeScript, and modern web technologies to contribute effectively in a dynamic work environment.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Key Skills
+- **Web Technologies:** JavaScript, TypeScript, HTML5, CSS3, React, Next.js
+- **Frameworks & Tools:** Redux, Node.js, Docker
+- **Design Collaboration:** Collaborated with UX teams for accessible and coherent designs
+- **DevOps:** AWS Basics, Jenkins
+- **Development Practices:** Agile methodologies, peer code reviews, testing
+- **Languages:** Fluent English, basic German
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Professional Experience
 
-### `npm run build`
+### **Frontend Developer**  
+**Petco.com (Remote)** | *November 2023 – Present*  
+- Developed and enhanced features for a large-scale e-commerce platform using TypeScript, React.js, and SSR.  
+- Collaborated with international teams across multiple countries.  
+- Managed SEO strategies, significantly improving search engine rankings and user engagement.  
+- Contributed to AWS-based backend solutions, including AWS Lambda functions.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### **Software Engineer**  
+**Kellton, Gurugram, India** | *March 2022 – November 2023*  
+- Developed responsive and accessible UI components with React.js.  
+- Integrated REST APIs for seamless web application communication.  
+- Enhanced user experience by developing Progressive Web Apps (PWAs).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### **Sr. Associate Consultant - Development**  
+**Oodles Technologies, Gurugram, India** | *January 2020 – March 2022*  
+- Led a five-person team on live-streaming projects, enhancing site stability and implementing modern front-end features.  
+- Migrated a legacy PHP platform to React.js, improving maintainability and performance.  
+- Mentored junior developers in UI development and managed project timelines.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Projects
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### **Babyflix.net - Live Streaming Platform**  
+*January 2020 – March 2022*  
+- Managed and developed live streaming features, ensuring a seamless viewing experience for thousands of users.  
+- Led architectural improvements and collaborated closely with the client for continuous enhancements.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### **Sampling Admin - Advertising Site**  
+*March 2022 – September 2023*  
+- Built and maintained an ERP system for product campaigns using React.js and Redux.  
+- Enhanced UI/UX with performance optimizations and reusable components.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Education
+- **Master’s in Computer Application (MCA):** Gurugram University, India (2020 – 2022)  
+- **Bachelor’s in Computer Application (BCA):** Maharishi Dayanand University, India (2017 – 2020)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Certifications
+- **Core JavaScript – Coding Ninja (01/2022)**  
+- **Core React.js – Coding Ninja (01/2022)**  
+- **Digital Marketing Fundamentals – Google Digital Garage (07/2021)**
