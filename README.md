@@ -25,12 +25,6 @@ I am an experienced Frontend Developer with 5 years of expertise in building res
 
 ## Professional Experience
 
-### **Frontend Developer**  
-**Petco.com (Remote)** | *November 2023 – Present*  
-- Developed and enhanced features for a large-scale e-commerce platform using TypeScript, React.js, and SSR.  
-- Collaborated with international teams across multiple countries.  
-- Managed SEO strategies, significantly improving search engine rankings and user engagement.  
-- Contributed to AWS-based backend solutions, including AWS Lambda functions.
 
 ### **Software Engineer**  
 **Kellton, Gurugram, India** | *March 2022 – November 2023*  
